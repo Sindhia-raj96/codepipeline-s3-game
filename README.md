@@ -22,5 +22,5 @@ The code will be deployed and hosted in S3.
 ## The Deployment Pipeline
 The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code from GitHub, and deploys it to S3 whenever a change is detected in the code.
 
-## Cost
-All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
+link : http://my-memory-game-storage-05.s3-website-us-east-1.amazonaws.com
+
